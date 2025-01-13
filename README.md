@@ -11,6 +11,7 @@
 <code>![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)</code>
 <code>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)</code>
 <code>![Vue](https://img.shields.io/badge/Vue-ffffff?style=flat-square&logo=vuedotjs&logoColor=4FC08D)</code>
+<code>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</code>
 
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -20,6 +21,7 @@
 **工具集:**
 
 <code>![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)</code>
+<code>![idea](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge&logoColor=white)</code>
 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 ![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
