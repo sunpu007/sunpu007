@@ -3,6 +3,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunpu007&show_icons=true" alt="sunpu0072" />
 </p>
 
+<table border="0">
+  <tr>
+    <td style="boder:none"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunpu007&repo=admin-server&theme=tokyonight"/></td>
+    <td style="boder:none"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunpu007&repo=flutter_wechat&theme=tokyonight"/></td>
+    <td style="boder:none"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunpu007&repo=egg-google-auth&theme=tokyonight"/></td>
+  </tr>
+</table>
+
 **技术栈:**
 
 <code>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)</code>
