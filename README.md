@@ -1,34 +1,25 @@
-<pre>
-////////////////////////////////////////////////////////////////////
-//                          _ooOoo_                               //
-//                         o8888888o                              //
-//                         88" . "88                              //
-//                         (| ^_^ |)                              //
-//                         O\  =  /O                              //
-//                      ____/`---'\____                           //
-//                    .'  \\|     |//  `.                         //
-//                   /  \\|||  :  |||//  \                        //
-//                  /  _||||| -:- |||||-  \                       //
-//                  |   | \\\  -  /// |   |                       //
-//                  | \_|  ''\---/''  |   |                       //
-//                  \  .-\__  `-`  ___/-. /                       //
-//                ___`. .'  /--.--\  `. . ___                     //
-//              ."" '<  `.___\_<|>_/___.'  >'"".                  //
-//            | | :  `- \`.;`\ _ /`;.`/ - ` : | |                 //
-//            \  \ `-.   \_ __\ /__ _/   .-` /  /                 //
-//      ========`-.____`-.___\_____/___.-`____.-'========         //
-//                           `=---='                              //
-//      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^        //
-////////////////////////////////////////////////////////////////////
-</pre>
-
-Hi there, I'm [Jerry!](https://www.myjerry.cn) 👋
-
-Hi everyone, my name is Jerry, an enthusiastic front-end web developer from China.
-
-- Blog: https://www.myjerry.cn
-- Email: 731238433@qq.com
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpu007&layout=compact&hide=html" alt="sunpu0072" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunpu007&show_icons=true" alt="sunpu0072" /></p>
+
+**技术栈:**
+
+<code>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)</code>
+<code>![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)</code>
+
+<code>![node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)</code>
+<code>![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)</code>
+<code>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)</code>
+<code>![Vue](https://img.shields.io/badge/Vue-ffffff?style=flat-square&logo=vuedotjs&logoColor=4FC08D)</code>
+
+![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
+![nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**工具集:**
+
+<code>![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)</code>
+
+![git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
