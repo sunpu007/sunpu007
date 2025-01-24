@@ -7,6 +7,8 @@
   <tr>
     <td style="boder:none"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunpu007&repo=admin-server&theme=tokyonight"/></td>
     <td style="boder:none"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunpu007&repo=flutter_wechat&theme=tokyonight"/></td>
+  </tr>
+  <tr>
     <td style="boder:none"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sunpu007&repo=egg-google-auth&theme=tokyonight"/></td>
   </tr>
 </table>
