@@ -17,12 +17,14 @@
 
 <code>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)</code>
 <code>![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)</code>
+<code>![HarmonyOS](https://img.shields.io/badge/HarmonyOS-3DDC84?style=flat-square&logo=HarmonyOS&logoColor=white)</code>
 
 <code>![node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)</code>
 <code>![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)</code>
 <code>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)</code>
 <code>![Vue](https://img.shields.io/badge/Vue-ffffff?style=flat-square&logo=vuedotjs&logoColor=4FC08D)</code>
 <code>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)</code>
+<code>![Arkts](https://img.shields.io/badge/arkts-ED8B00?style=flat-square&logo=arkts&logoColor=white)</code>
 
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
